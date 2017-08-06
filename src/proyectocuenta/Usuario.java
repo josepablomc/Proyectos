@@ -9,6 +9,7 @@ public class Usuario {
     private String apellidos;
     private String cedula;
     private String correo;
+    // por aca voy
 
     // Constructor
 
